@@ -1,2 +1,2 @@
-# barba
+# salao
 Pagina comercial para aprendizagem.
